@@ -1,0 +1,18 @@
+.navbar-nav {
+    margin-left:auto;
+}
+
+.dropdown-toggle {
+    color: white;
+    font-weight: bold;
+}
+
+.dropdown-item {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.dropdown-item:hover {
+    background-color: #343a40;
+    color: white;
+}
