@@ -1,10 +1,11 @@
 # Application with basic user authorization functionalites.
 
-**Before proceeding with the frontend or api setup, complete the setup of the sql server.**
+###### Before proceeding with the frontend or api setup, complete the setup of the sql server.
+
 The project uses MySQL to work. Make sure you have mysql installed in your system and is up.
 If you have set password for the root user, provide the credentials accordingly in the api configuration.
 
-###### Steps for backend setup
+## Steps for backend setup
 The backend api has been made with python and flask.
 Make sure you have python 3.5+ installed in your system.
 
@@ -23,9 +24,9 @@ Run the api.
 
 *Open the api in browser with localhost:5000 to initialize the database with some values.*
 
-**In order to use your gmail for google login, add your gmail to the user table in the database created after migrating, or create username and password for loggin in normally and run the api again.**
+###### In order to use your gmail for google login, add your gmail to the user table in the database created after migrating, or create username and password for loggin in normally and run the api again.
 
-###### Steps for frontend setup
+## Steps for frontend setup
 The frontend has been made using Angular.
 Make sure your have all the requirements to run an Angular app.
 
